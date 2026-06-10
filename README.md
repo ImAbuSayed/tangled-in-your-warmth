@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-your-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tangled In Your Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-warmth/) |
+| **Get License** | [Official Music Licensing for Tangled In Your Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fde776a7b9ff04fabda9c42bde8178de1e98a40029afe9ac739bb2b6e56419ce` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
