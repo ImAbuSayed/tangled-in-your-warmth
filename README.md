@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-your-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tangled In Your Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-warmth/) |
+| **Get License** | [Get License For Tangled In Your Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught up in the shadows where the firelight sways
+> I could lose myself inside your endless gaze
+> The midnight air is pulling me to your side
+> There’s nowhere else that I would rather hide
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
